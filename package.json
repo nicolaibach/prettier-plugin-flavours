@@ -1,0 +1,20 @@
+{
+  "name": "prettier-plugin-flavours",
+  "version": "0.0.1",
+  "description": "Adds a bunch of file types to prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaibach/prettier-plugin-flavours.git"
+  },
+  "keywords": [],
+  "author": "Nicolai Bach <mail@nicolaibach.de> (http://nicolaibach.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolaibach/prettier-plugin-flavours/issues"
+  },
+  "homepage": "https://github.com/nicolaibach/prettier-plugin-flavours#readme"
+}
