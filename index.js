@@ -9,7 +9,7 @@ const languages = [
   {
     extensions: ['.jxa'],
     name: 'JavaScript for Automation (JXA)',
-    parsers: ['javascript'],
+    parsers: ['babel'],
     // linguistLanguageId: ?,
     vscodeLanguageIds: ['jxa']
   }
